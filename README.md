@@ -4,7 +4,7 @@ Module for displaying "Please wait..." dialog with a circular throbber using Boo
 <h2>Methods</h2>
 <b>pleaseWaitDialog.show(message, {options});</b>
  
-  Show the modal window.
+  Shows the modal window.
   
   Params: 
     
@@ -16,4 +16,4 @@ Module for displaying "Please wait..." dialog with a circular throbber using Boo
 
 <b>pleaseWaitDialog.hide();</b>
   
-  Hide the modal window
+  Hides the modal window
