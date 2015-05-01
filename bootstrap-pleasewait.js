@@ -33,7 +33,7 @@ var pleaseWaitDialog = (function ($) {
 		show: function (message, options) {
 			// Assigning defaults
 			var settings = $.extend({
-				width: 300,
+				width: '300px',
 				offsetTop: 50,
 			}, options);
 
